@@ -1,0 +1,13 @@
+C:\Users\vinny\OneDrive\Área de Trabalho\SENAI\BACK-END\POO34-MVC\bin\Debug\netcoreapp3.1\POO34-MVC.exe
+C:\Users\vinny\OneDrive\Área de Trabalho\SENAI\BACK-END\POO34-MVC\bin\Debug\netcoreapp3.1\POO34-MVC.deps.json
+C:\Users\vinny\OneDrive\Área de Trabalho\SENAI\BACK-END\POO34-MVC\bin\Debug\netcoreapp3.1\POO34-MVC.runtimeconfig.json
+C:\Users\vinny\OneDrive\Área de Trabalho\SENAI\BACK-END\POO34-MVC\bin\Debug\netcoreapp3.1\POO34-MVC.runtimeconfig.dev.json
+C:\Users\vinny\OneDrive\Área de Trabalho\SENAI\BACK-END\POO34-MVC\bin\Debug\netcoreapp3.1\POO34-MVC.dll
+C:\Users\vinny\OneDrive\Área de Trabalho\SENAI\BACK-END\POO34-MVC\bin\Debug\netcoreapp3.1\POO34-MVC.pdb
+C:\Users\vinny\OneDrive\Área de Trabalho\SENAI\BACK-END\POO34-MVC\obj\Debug\netcoreapp3.1\POO34-MVC.csprojAssemblyReference.cache
+C:\Users\vinny\OneDrive\Área de Trabalho\SENAI\BACK-END\POO34-MVC\obj\Debug\netcoreapp3.1\POO34-MVC.AssemblyInfoInputs.cache
+C:\Users\vinny\OneDrive\Área de Trabalho\SENAI\BACK-END\POO34-MVC\obj\Debug\netcoreapp3.1\POO34-MVC.AssemblyInfo.cs
+C:\Users\vinny\OneDrive\Área de Trabalho\SENAI\BACK-END\POO34-MVC\obj\Debug\netcoreapp3.1\POO34-MVC.csproj.CoreCompileInputs.cache
+C:\Users\vinny\OneDrive\Área de Trabalho\SENAI\BACK-END\POO34-MVC\obj\Debug\netcoreapp3.1\POO34-MVC.dll
+C:\Users\vinny\OneDrive\Área de Trabalho\SENAI\BACK-END\POO34-MVC\obj\Debug\netcoreapp3.1\POO34-MVC.pdb
+C:\Users\vinny\OneDrive\Área de Trabalho\SENAI\BACK-END\POO34-MVC\obj\Debug\netcoreapp3.1\POO34-MVC.genruntimeconfig.cache

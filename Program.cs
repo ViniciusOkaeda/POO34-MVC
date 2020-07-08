@@ -1,4 +1,6 @@
 ﻿using System;
+using POO34_MVC.Controllers;
+using POO34_MVC.Views;
 
 namespace POO34_MVC
 {
@@ -6,7 +8,8 @@ namespace POO34_MVC
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            ProdutoController produtos = new ProdutoController();
+            produtos.Buscar("5500");
         }
     }
 }

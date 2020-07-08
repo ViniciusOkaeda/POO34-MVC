@@ -28,7 +28,7 @@ namespace POO34_MVC.Models
                 File.Create(PATH).Close();
             }
         }
-            List<Produto> Listar()
+            public List<Produto> Ler()
         {
             // Lemos o arquivo e transformamos em um array de linhas
             List<Produto> produtos = new List<Produto>();
